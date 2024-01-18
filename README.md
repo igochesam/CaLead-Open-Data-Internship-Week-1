@@ -34,11 +34,14 @@ This repository contains the analysis of a sales transaction dataset from a UK-b
 ## Findings and Recommendations
 
 - **Sales Trend:**
-  - [Describe the key findings related to the sales trend.]
+  - The sales data covers the time between January and January 2021. Sales peaked in December 2019 with almost 8 Million Pounds generated in sales in that month alone. On the contrary, sales was at the lowest in January 2020 with a value of a little over 1 Million Pounds in total. The average monthly sales across the months stood at about 4.8 Million Pounds.
+  - ![image](https://github.com/igochesam/CaLead-Open-Data-Internship-Task-1/assets/109409835/acde900e-6f26-44c6-8564-a14119dc13cf)
 
 - **Frequently Purchased Products:**
-  - [Highlight the top products that customers frequently purchase.]
-
+  - The top 5 most frequently purchased products are Cream Hanging Heart T-Light Holder (2336 purchases), Jumbo Bag Red Retrospot (2115 purchases), Regency Cakestand 3 Tier (2019 purchases), Party Bunting (1708), and Lunch Bag Red Retrospot (1597).
+  - As for the least frequently purchased products, a couple of products were purchased just once. In fact, 122 items were purchased just once, and these products fall in the category of items used in arts and crafts. You can find the list in the Jupyter Notebook file. 
+  - ![image](https://github.com/igochesam/CaLead-Open-Data-Internship-Task-1/assets/109409835/96e3da4e-c2d0-4aa6-8104-af62d6c74e23)
+  
 - **Quantity of Products in Each Transaction:**
   - [Share insights into customer behaviour regarding the quantity of products in transactions.]
 
